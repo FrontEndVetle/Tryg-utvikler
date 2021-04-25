@@ -1,0 +1,12 @@
+.cart {
+    background-color: rgb(216, 216, 216) !important;
+    margin-top: 20%;
+    padding: 20px;
+    &__item {
+        margin: 30px;
+    }
+    &__price {
+        background-color: rgb(216, 216, 216) !important;
+        margin-top: 20px;
+    }
+}
